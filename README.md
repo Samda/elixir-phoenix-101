@@ -1,3 +1,6 @@
+# This sample project was deploy on heroku
+ * here is the tutorial
+ http://www.phoenixframework.org/docs/heroku
 # Metathor
 
 To start your Phoenix app:
